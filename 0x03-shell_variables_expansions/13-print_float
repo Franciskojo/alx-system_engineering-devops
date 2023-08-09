@@ -1,2 +1,2 @@
 #!/bin/bash
-prntf "%.2.31" $NUM | sort 
+prntf "%.2f\n" $NUM 
